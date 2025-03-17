@@ -1,5 +1,11 @@
 # Hotel Booking Application
 
+**Aplicatie complementara pentru SPA - Hotel Management Demo Ap**
+
+**Puteți încerca o versiune complet funcțională a acestui feature :** https://hotel-booking-application-roan.vercel.app/
+
+**Sursa video pentru prezentarea toolkit-ului :**
+
 ## Descriere
 
 Stay Cabin este o aplicație web modernă pentru gestionarea rezervărilor și profilurilor utilizatorilor . Aplicația oferă o experiență ușor de utilizat pentru gestionarea rezervărilor, vizualizarea cabinelor disponibile, actualizarea profilului utilizatorilor și interacțiunea cu un sistem de rezervări în timp real.
