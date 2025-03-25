@@ -2,9 +2,9 @@
 
 **Aplicatie complementara pentru SPA - Hotel Management Demo Ap**
 
-**Puteți încerca o versiune complet funcțională a acestui feature :** https://hotel-booking-application-roan.vercel.app/
+**Puteți încerca o versiune complet funcțională a acestei aplicații :** https://hotel-booking-application-roan.vercel.app
 
-**Sursa video pentru prezentarea toolkit-ului :**
+**Prezentarea video a proiectului :** https://www.loom.com/share/342d487ed05b48d8bd3edc81cad7bd1f?sid=1e96702a-2b1a-496f-8c24-c356267b2381
 
 ## Descriere
 
